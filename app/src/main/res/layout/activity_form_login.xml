@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.core.widget.NestedScrollView
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/logo2"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical"
+        tools:context=".view.formcadastro.Formcadastro">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:hint="@string/Login"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="34sp" />
+
+        <EditText
+
+            android:id="@+id/edit_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            android:hint="@string/email"
+            android:inputType="textEmailAddress"
+            android:maxLines="1">
+
+        </EditText>
+
+
+        <EditText
+            android:id="@+id/edit_senha"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            android:hint="@string/senha"
+            android:inputType="numberPassword"
+            android:maxLines="1">
+
+        </EditText>
+
+        <Button
+            android:id="@+id/button_entrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:backgroundTint="@android:color/darker_gray"
+            android:hint="@string/Entrar"
+            android:padding="15dp"
+            android:textAllCaps="true"
+            android:textColor="@color/white"
+            android:textSize="24sp"
+            android:textStyle="bold">
+
+        </Button>
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </ProgressBar>
+
+
+        <TextView
+            android:id="@+id/txt_tela_Cadastro"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:hint="@string/texto_tela_cadastro"
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+
+    </LinearLayout>
+
+
+</androidx.core.widget.NestedScrollView>

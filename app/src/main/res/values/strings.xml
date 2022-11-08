@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">App de login</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="Entrar">Validar</string>
+    <string name="Login">Login do usuário</string>
+
+    <string name="texto_tela_cadastro">Não tem conta? cadastre-se</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="gravar">gravar</string>
+    <string name="gravarbd">Gravar</string>
+    <string name="lerdados">LerDados</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="cadastro_do_usuário">Cadastro do usuário</string>
+    <string name="welcome">Bem vindo!</string>
+    <string name="deslogares">Sair</string>
+    <string name="txt_nome_usuario">Olá,Flávio</string>
+    <string name="txt_saldo_conta">Saldo:\n\nR$:550,85</string>
+    <string name="Area_do_pix">Area do pix</string>
+    <string name="sair">Sair</string>
+    <string name="cartoes">Meus Cartões</string>
+    <string name="txtprodutos">Faça o pix com segurança e com toda rapidez que o Android banck
+oferece. </string>
+</resources>
