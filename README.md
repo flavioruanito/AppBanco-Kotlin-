@@ -1,4 +1,4 @@
-# AppBanco
+# AppBank
 Projeto pessoal com a finalidade  de simular layout de um banco digital com Tela de usuário e login ultilizando:
 - Plataforma backend do google Firebase
 - Armazenamento em cloud com o Firestore
