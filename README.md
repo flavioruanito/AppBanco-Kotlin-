@@ -8,3 +8,8 @@ Projeto pessoal com a finalidade  de simular layout de um banco digital com Tela
 - Lista de fragment com RecyclerView
 
 
+Projeto em execução: 👇🚀
+
+https://www.linkedin.com/posts/flávio-coelho-b01462162_android-activity-6995815630671081472-EoAb?utm_source=share&utm_medium=member_desktop
+
+
